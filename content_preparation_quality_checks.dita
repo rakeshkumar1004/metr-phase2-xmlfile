@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="content_preparation_quality_checks">
+    <title>Content Preparation &amp; Quality Checks</title>
+    <shortdesc>This section answers questions about the metR's content preparation &amp; quality
+        checks.</shortdesc>
+    <prolog>
+        <author>Yashshree</author>
+        <critdates>
+            <created date="2026-01-29+05:30"/>
+            <revised modified="2026-01-29"/>
+        </critdates>
+        <metadata>
+            <audience type="role" otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+            
+            <keywords>
+                <indexterm>do-the-documents-need-to-be-cleaned-up-before-conversion</indexterm>
+                <indexterm>what-common-pre-flight-check-errors-can-be-detected-while-migrating-my-document</indexterm>
+                <indexterm>what-common-post-flight-check-errors-can-be-detected-while-migrating-my-document</indexterm>
+                <indexterm>should-my-images-be-in-a-specific-format-such-as-png-jpg-etc-to-optimize-conversion</indexterm>
+            </keywords>
+            
+            <prodinfo>
+                <prodname>metR</prodname>
+                <platform>web</platform>
+                <component>docmigrate</component>
+                <component>doceditor</component>
+                <component>docmanager</component>
+                <component>docpublisher</component>
+                <component>ai-rag</component>
+                <component>ai-retrieval</component>
+                <component>ai-chatbot</component>  
+                <component>content-analytics</component>
+                <component>ai-analytics</component>
+                <component>portal</component>
+                <component>content-delivery-platform</component>
+            </prodinfo>
+            
+            <othermeta name="title" content="Content Preparation and Quality Checks"/>
+            <othermeta name="shortdesc" content="Answers questions about preparing content and validating quality before document conversion in metR."/>
+            <othermeta name="language" content="en-GB"/>
+            <othermeta name="version" content="1.0.0"/>
+            <othermeta name="docStage" content="approved"/>
+            <othermeta name="access.role" content="public"/>
+            <othermeta name="data.classification" content="non-sensitive"/>
+            <othermeta name="retention.policy" content="standard-36m"/>
+            <othermeta name="entities" content="metR;content-preparation;quality-checks"/>
+            <othermeta name="taxonomy" content="domain:content-readiness;usecase:quality-validation;industry:enterprise-software"/>
+            <othermeta name="tags" content="content-preparation,quality,validation,docops,metr"/>
+            <othermeta name="usecase" content="content-preparation-and-quality-checks-faqs"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <section id="section_x22_ptk_whc">
+            <title>Do the documents need to be cleaned up before conversion?</title>
+            <p><b>Yes. metR requires documents be fully cleaned up before conversion in accordance
+                    with the documentation coversion policy.</b>
+            </p>
+            <p>metR is designed to process content with varying levels of structure and consistency
+                by applying structure and ontology driven conversion. However, the documents
+                indicate that review, validation, and governance steps may be applied as part of the
+                conversion workflow, and source quality can influence conversion outcomes.</p>
+        </section>
+        <section id="section_r2g_5tk_whc">
+            <title>What common pre-flight check errors can be detected while migrating my document? </title>
+            <p>metR can detect issues such as missing headings, inconsistent structure, unsupported
+                formatting, duplicate content, and incomplete metadata. These checks help identify
+                problems early so they can be corrected before conversion, improving accuracy and
+                consistency in the final DITA output. </p>
+        </section>
+        <section id="section_aks_xtk_whc">
+            <title>What common post-flight check errors can be detected while migrating my document? </title>
+            <p>Post-flight checks can identify issues such as incorrect topic structure, broken
+                references, missing or invalid metadata, formatting mismatches, and content that did
+                not map correctly to DITA elements. These checks help ensure the converted content
+                is accurate, consistent, and ready for reuse or publishing. </p>
+        </section>
+        <section id="section_ajd_ztk_whc">
+            <title>Should my images be in a specific format such as .PNG, .JPG, etc. to optimize
+                conversion? </title>
+            <p><b>No. metR can process common image formats such as PNG and JPG without special
+                    preparation.</b></p>
+            <p>Using standard, well-supported formats helps ensure images are preserved correctly,
+                but no specific image cleanup or conversion is required before processing. </p>
+        </section>
+    </conbody>
+</concept>

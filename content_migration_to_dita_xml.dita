@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="content_migration_to_dita_xml">
+    <title>High‑Accuracy Content Migration to DITA‑XML</title>
+    <shortdesc>metR is a modular framework for migrating unstructured content to DITA-XML with
+        governance, publishing, and AI readiness built in.</shortdesc>
+    <prolog>
+        <author>Pallavi</author>
+        
+        <critdates>
+            <created date="2026-01-29+05:30"/>
+            <revised modified="2026-01-29"/>
+        </critdates>
+        
+        <metadata>
+            
+            <!-- Audience (DITA-native role taxonomy) -->
+            <audience
+                type="role"
+                otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+            
+            <!--   + Index Terms -->
+            <keywords>
+                <!--   -->
+                <indexterm>DITA-XML migration framework</indexterm>
+                <indexterm>unstructured to structured content</indexterm>
+                <indexterm>technical documentation migration</indexterm>
+                <indexterm>DITA governance</indexterm>
+                <indexterm>content transformation pipeline</indexterm>
+                <indexterm>DITA-XML migration</indexterm>
+                <indexterm>unstructured content conversion</indexterm>
+                
+                <!-- Controlled Index Terms -->
+                <indexterm>metR</indexterm>
+                <indexterm>DITA migration</indexterm>
+                <indexterm>content governance</indexterm>
+                <indexterm>documentation pipeline</indexterm>
+            </keywords>
+            
+            <!-- Product Mapping -->
+            <prodinfo>
+                <prodname>metR</prodname>
+                <platform>web</platform>
+                <component>migration</component>
+                <component>governance</component>
+                <component>publishing</component>
+                <component>metadata</component>
+            </prodinfo>
+            
+            <!-- DITA Metadata Framework for GEO & AI Discoverability -->
+            <othermeta name="intent" content="discover | evaluate | migrate | publish | enable-ai"/>
+            <othermeta name="content-type" content="product | solution | platform | resource"/>
+            <othermeta name="audience" content="enterprise | documentation-team | architect | product-leader"/>
+            <othermeta name="industry" content="medtech | bfsi | automotive | saas | manufacturing"/>
+            <othermeta name="ai-readiness" content="dita | semantic | ontology | knowledge-graph | rag"/>
+            <othermeta name="delivery-model" content="static | dynamic | headless | hybrid"/>
+            <othermeta name="geo-intent" content="global | europe | north-america | apac"/>
+            
+            <othermeta name="cost-positioning" content="low-tco | ccms-alternative | budget-optimized"/>
+            
+            <!-- Descriptive Metadata -->
+            <othermeta name="title"
+                content="High-Accuracy Content Migration to DITA-XML"/>
+            <othermeta name="shortdesc"
+                content="metR is a modular framework for migrating unstructured content to DITA-XML with governance, publishing, and AI readiness built in."/>
+            <othermeta name="language" content="en-GB"/>
+            <othermeta name="version" content="1.0.0"/>
+            <othermeta name="docStage" content="approved"/>
+            <othermeta name="access.role" content="public"/>
+            <othermeta name="data.classification" content="non-sensitive"/>
+            
+            <!-- Sitemap & Knowledge Graph Taxonomy -->
+            <othermeta name="taxonomy"
+                content="content-type:solution;
+                product:metR;
+                capability:content-migration,dita-xml,metadata-enrichment,governance-workflows,pdf-html-publishing;
+                industry:enterprise-software"/>
+            
+            <othermeta name="entities"
+                content="metR;dita-xml;content-migration;content-governance;documentation-pipeline"/>
+            
+            <othermeta name="tags"
+                content="dita-migration,unstructured-content,content-governance,documentation-pipeline,ccms-alternative"/>
+            
+            <othermeta name="usecase"
+                content="high-accuracy-dita-xml-content-migration"/>
+            
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <p>Convert DOCX, PDF, FrameMaker, HTML, Markdown, JATS, DocBook, and custom XML
+            into standards‑compliant DITA‑XML.</p>
+        <p><b>What You Get</b></p>
+        <ul id="ul_rzq_ppv_c3c">
+            <li>Structure‑aware parsing</li>
+            <li>Style &amp; hierarchy preservation</li>
+            <li>Block‑level difference validation</li>
+            <li>Schema‑validated output</li>
+        </ul>
+        <p><xref href="https://met-r.io/contact" format="html" scope="external">Request a Migration
+                Assessment</xref></p>
+        <section id="section_ktt_cqv_c3c">
+            <title><b>Govern Without Git Complexity</b></title>
+            <p><ph keyref="product_name"/> introduces <b>Git‑light workflows</b> designed
+                for content teams - not developers.</p>
+            <ul id="ul_lhr_kqv_c3c">
+                <li>Visual compare (headings, tables, lists, paragraphs)</li>
+                <li>Review &amp; approve via UI</li>
+                <li>Audit‑ready change history</li>
+            </ul>
+            <p><xref href="https://met-r.io/contact" format="html" scope="external">See
+                    Governance in Action</xref>
+            </p>
+        </section>
+        <section id="section_uqy_qqv_c3c">
+            <title>Publish Once. Deliver Everywhere.</title>
+            <ul id="ul_us2_rqv_c3c">
+                <li>One‑click DITA‑OT builds</li>
+                <li>Brand‑controlled PDF &amp; HTML</li>
+                <li>Reusable themes &amp; profiles</li>
+            </ul>
+            <p><xref href="https://met-r.io/contact" format="html" scope="external">View Publishing
+                    Pipeline</xref></p>
+        </section>
+    </conbody>
+</concept>
