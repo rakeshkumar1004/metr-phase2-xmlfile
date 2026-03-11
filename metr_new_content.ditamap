@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>metR Website</title>
+    <!-- product layer-->
+    <keydef keys="product_name">
+        <topicmeta>
+            <navtitle>metR</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product_version">
+        <topicmeta>
+            <navtitle>v3.0</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="application_reference">
+        <topicmeta>
+            <navtitle>console</navtitle>
+        </topicmeta>
+    </keydef>
+    <!-- component layer -->
+    <keydef keys="metr_portal">
+        <topicmeta>
+            <navtitle>Portal</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="docmigrate">
+        <topicmeta>
+            <navtitle>DocMigrate</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="docmanager">
+        <topicmeta>
+            <navtitle>DocManager</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="docpublisher">
+        <topicmeta>
+            <navtitle>DocPublisher</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="docstyler">
+        <topicmeta>
+            <navtitle>DocStyler</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="doceditor">
+        <topicmeta>
+            <navtitle>DocEditor</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="aianalytics">
+        <topicmeta>
+            <navtitle>AI Analytics</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="cdp">
+        <topicmeta>
+            <navtitle>content delivery portal</navtitle>
+        </topicmeta>
+    </keydef>
+    <!-- capabilities layer-->
+    <keydef keys="dita_conversion">
+        <topicmeta>
+            <navtitle>DITA conversion</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="metadata_enrichment">
+        <topicmeta>
+            <navtitle>metadata enrichment</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="ai_retrieval">
+        <topicmeta>
+            <navtitle>AI retrieval</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="knowledge_graph">
+        <topicmeta>
+            <navtitle>knowledge graph</navtitle>
+        </topicmeta>
+    </keydef>
+    <keydef keys="semantic_search">
+        <topicmeta>
+            <navtitle>semantic search</navtitle>
+        </topicmeta>
+    </keydef>
+    <topichead navtitle="Home">
+        <topicref href="topics/unstructured_to_ai_ready_content.dita"/>
+    </topichead>
+    <topichead navtitle="Product">
+        <topicref href="topics/metr_the_content_transformation_framework.dita">
+            <topicref href="topics/content_migration_to_dita_xml.dita"/>
+            <topicref href="topics/structured_content_to_ai_ready_knowledge.dita"/>
+            <topicref href="topics/doc_delivery_without_ccms_lock_in.dita">
+                <topicref href="topics/dynamic_sites_strapi.dita"/>
+                <topicref href="topics/static_sites_docusaurus.dita"/>
+            </topicref>
+        </topicref>
+    </topichead>
+    <topichead navtitle="Solutions">
+        <topicref href="topics/content_modernization.dita"/>
+    </topichead>
+    <topichead navtitle="Resources">
+        <topicref href="topics/resources.dita"/>
+        <mapref href="metr_site_faqs.ditamap"/>
+    </topichead>
+</map>
