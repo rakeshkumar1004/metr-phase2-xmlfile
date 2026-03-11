@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="metr_site_faqs">
+    <title>FAQs</title>
+    <shortdesc>Frequently asked questions about DITA-XML migration, governance workflows, AI
+        readiness, and metR capabilities</shortdesc>
+    <prolog>
+        <author>Pallavi</author>
+        
+        <critdates>
+            <created date="2026-01-29+05:30"/>
+            <revised modified="2026-01-29"/>
+        </critdates>
+        
+        <metadata>
+            
+            <!-- Audience (DITA-native role taxonomy) -->
+            <audience
+                type="role"
+                otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+            
+            <!--   + Index Terms -->
+            <keywords>
+                <!--   -->
+                <indexterm>DITA migration FAQs</indexterm>
+                <indexterm>documentation automation questions</indexterm>
+                <indexterm>AI documentation FAQs</indexterm>
+                
+                <!-- Controlled Index Terms -->
+                <indexterm>FAQs</indexterm>
+                <indexterm>DITA questions</indexterm>
+                <indexterm>content migration help</indexterm>
+            </keywords>
+            
+            <!-- Product Mapping (neutral, FAQ hub) -->
+            <prodinfo>
+                <prodname>metR</prodname>
+                <platform>web</platform>
+                <component>docmigrate</component>
+                <component>doceditor</component>
+                <component>docmanager</component>
+                <component>docpublisher</component>
+                <component>ai-rag</component>
+                <component>ai-retrieval</component>
+                <component>ai-chatbot</component>  
+                <component>content-analytics</component>
+                <component>ai-analytics</component>
+                <component>portal</component>
+                <component>content-delivery-platform</component>
+            </prodinfo>
+            
+            <!-- DITA Metadata Framework for GEO & AI Discoverability -->
+            <othermeta name="intent" content="discover | evaluate | migrate | publish | enable-ai"/>
+            <othermeta name="content-type" content="product | solution | platform | resource"/>
+            <othermeta name="audience" content="enterprise | documentation-team | architect | product-leader"/>
+            <othermeta name="industry" content="medtech | bfsi | automotive | saas | manufacturing"/>
+            <othermeta name="ai-readiness" content="dita | semantic | ontology | knowledge-graph | rag"/>
+            <othermeta name="delivery-model" content="static | dynamic | headless | hybrid"/>
+            <othermeta name="geo-intent" content="global | europe | north-america | apac"/>
+            <othermeta name="cost-positioning" content="low-tco | ccms-alternative | budget-optimized"/>
+            
+            
+            <!-- Descriptive Metadata -->
+            <othermeta name="title"
+                content="FAQs"/>
+            <othermeta name="shortdesc"
+                content="Frequently asked questions about DITA-XML migration, governance workflows, AI readiness, and metR capabilities."/>
+            <othermeta name="language" content="en-GB"/>
+            <othermeta name="version" content="1.0.0"/>
+            <othermeta name="docStage" content="approved"/>
+            <othermeta name="access.role" content="public"/>
+            <othermeta name="data.classification" content="non-sensitive"/>
+            
+            <!-- Sitemap & Knowledge Graph Taxonomy -->
+            <othermeta name="taxonomy"
+                content="content-type:faq;
+                product:metR;
+                industry:enterprise-software"/>
+            
+            <othermeta name="entities"
+                content="metR;dita-xml;content-migration;documentation-automation;ai-ready-documentation"/>
+            
+            <othermeta name="tags"
+                content="faqs,dita-migration,documentation-automation,ai-readiness,content-help"/>
+            
+            <othermeta name="usecase"
+                content="dita-and-ai-documentation-faqs"/>
+            
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>
