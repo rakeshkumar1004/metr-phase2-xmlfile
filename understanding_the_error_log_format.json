@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "a08fee56-2dff-4bd8-ac76-0f01c9c1f2f0"
+        ],
+        "value": "Understanding the Error Log Format"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "77605e94-7732-414a-abdc-7a9723b6fab7"
+        ],
+        "value": "This section describes how to identify, interpret and understand the error logs."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "c35c81ad-0f31-423a-9baf-75a065ca8617"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/understanding_the_error_log_format.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "6dbd4a70-9690-4093-ad00-d163cbe3d95b"
+        ],
+        "value": [
+          "error-log",
+          "error-log-format",
+          "interpret-error-logs",
+          "read-validation-messages",
+          "understand-log-fields",
+          "error",
+          "warning",
+          "severity-level",
+          "location",
+          "xpath-reference",
+          "dita-element",
+          "dita-xml-structure",
+          "line-number",
+          "tag-name",
+          "diagnostic-reference",
+          "downloaded-log-file",
+          "email-log-file",
+          "what-is-the-error-log-format",
+          "how-to-understand-validation-messages",
+          "what-do-error-log-fields-mean",
+          "how-to-interpret-conversion-errors"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Understanding the Error Log Format",
+      "metaDescription": "This section describes how to identify, interpret and understand the error logs.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/understanding_the_error_log_format.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "92971a5b-e374-4b01-922a-4c972812f782"
+          ],
+          "value": "Understanding the Error Log Format"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c0740205-17a6-43f7-8df3-fecf443e9f21"
+          ],
+          "value": "This section describes how to identify, interpret and understand the error logs."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}
