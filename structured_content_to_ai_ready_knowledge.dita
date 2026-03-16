@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="structured_content_to_ai_ready_knowledge">
+    <title>Turn Structured Content into AI‑Ready Knowledge</title>
+    <shortdesc>metR‑AI converts DITA‑XML and enterprise XML into ontology‑aligned knowledge graphs
+        for <b>accurate, explainable AI retrieval</b>.</shortdesc>
+    <prolog>
+        <author>Pallavi</author>
+        
+        <critdates>
+            <created date="2026-01-29+05:30"/>
+            <revised modified="2026-01-29"/>
+        </critdates>
+        
+        <metadata>
+            
+            <!-- Audience (DITA-native role taxonomy) -->
+            <audience
+                type="role"
+                otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+            
+            <!--   + Index Terms -->
+            <keywords>
+                <!--   -->
+                <indexterm>AI-ready documentation</indexterm>
+                <indexterm>knowledge graphs from DITA</indexterm>
+                <indexterm>RAG content pipelines</indexterm>
+                <indexterm>semantic search documentation</indexterm>
+                <indexterm>ontology-based AI</indexterm>
+                
+                <!-- Controlled Index Terms -->
+                <indexterm>metR-AI</indexterm>
+                <indexterm>knowledge graphs</indexterm>
+                <indexterm>semantic search</indexterm>
+                <indexterm>AI enablement</indexterm>
+                <indexterm>RAG</indexterm>
+            </keywords>
+            
+            <!-- Product Mapping -->
+            <prodinfo>
+                <prodname>metR-AI</prodname>
+                <platform>web</platform>
+                <component>ontology</component>
+                <component>semantic-search</component>
+                <component>knowledge-graph</component>
+                <component>rag</component>
+            </prodinfo>
+            
+            <!-- DITA Metadata Framework for GEO & AI Discoverability -->
+            <othermeta name="intent" content="discover | evaluate | migrate | publish | enable-ai"/>
+            <othermeta name="content-type" content="product | solution | platform | resource"/>
+            <othermeta name="audience" content="enterprise | documentation-team | architect | product-leader"/>
+            <othermeta name="industry" content="medtech | bfsi | automotive | saas | manufacturing"/>
+            <othermeta name="ai-readiness" content="dita | semantic | ontology | knowledge-graph | rag"/>
+            <othermeta name="delivery-model" content="static | dynamic | headless | hybrid"/>
+            <othermeta name="geo-intent" content="global | europe | north-america | apac"/>
+            
+            <othermeta name="cost-positioning" content="low-tco | ccms-alternative | budget-optimized"/>
+            
+            <!-- Descriptive Metadata -->
+            <othermeta name="title"
+                content="Turn Structured Content into AI-Ready Knowledge"/>
+            <othermeta name="shortdesc"
+                content="metR-AI transforms structured XML content into ontology-aligned knowledge graphs for accurate, explainable AI and RAG pipelines."/>
+            <othermeta name="language" content="en-GB"/>
+            <othermeta name="version" content="1.0.0"/>
+            <othermeta name="docStage" content="approved"/>
+            <othermeta name="access.role" content="public"/>
+            <othermeta name="data.classification" content="non-sensitive"/>
+            
+            <!-- Sitemap & Knowledge Graph Taxonomy -->
+            <othermeta name="taxonomy"
+                content="content-type:solution;
+                product:metR-AI;
+                capability:ontology,semantic-search,knowledge-graphs,ai-enablement,rag;
+                industry:saas"/>
+            
+            <othermeta name="entities"
+                content="metR-AI;dita-xml;knowledge-graphs;semantic-search;rag"/>
+            
+            <othermeta name="tags"
+                content="ai-ready,knowledge-graphs,ontology,rag,semantic-search"/>
+            
+            <othermeta name="usecase"
+                content="structured-content-to-ai-ready-knowledge"/>
+            
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <p>metR‑AI converts DITA‑XML and enterprise XML into ontology‑aligned knowledge graphs for
+                <b>accurate, explainable AI retrieval</b>.</p>
+        <p><b>Capabilities</b></p>
+        <ul id="ul_ox3_drv_c3c">
+            <li>Ontology mapping (MedTech, BFSI, Automotive, SaaS)</li>
+            <li>RDF / knowledge graph export</li>
+            <li>RAG‑ready content pipelines</li>
+            <li>Evidence‑linked answers</li>
+        </ul>
+        <p><xref href="https://met-r.io/request-demo" format="html" scope="external">Book an AI
+                Enablement Demo</xref></p>
+    </conbody>
+</concept>
