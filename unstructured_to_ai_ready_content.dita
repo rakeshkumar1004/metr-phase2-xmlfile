@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="unstructured_to_ai_ready_content">
+    <title>From Unstructured Content to AI‑Ready Knowledge</title>
+    <shortdesc>Convert unstructured documentation into governed, DITA-XML content and AI-ready
+        knowledge graphs using the metR content transformation framework.</shortdesc><prolog>
+            <author>Pallavi</author>
+            
+            <critdates>
+                <created date="2026-01-29+05:30"/>
+                <revised modified="2026-01-29"/>
+            </critdates>
+            
+            <metadata>
+                
+                <!-- Audience (DITA-native, role-based) -->
+                <audience
+                    type="role"
+                    otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+                
+                <!--   -->
+                <keywords>
+                    <indexterm>unstructured content migration</indexterm>
+                    <indexterm>DITA-XML conversion</indexterm>
+                    <indexterm>AI-ready documentation</indexterm>
+                    <indexterm>content transformation framework</indexterm>
+                    <indexterm>technical documentation automation</indexterm>
+                    <indexterm>knowledge graph enablement</indexterm>
+                    
+                    <!-- Controlled Index Terms -->
+                    <indexterm>content migration</indexterm>
+                    <indexterm>DITA-XML</indexterm>
+                    <indexterm>documentation automation</indexterm>
+                    <indexterm>AI-ready content</indexterm>
+                    <indexterm>structured content framework</indexterm>
+                </keywords>
+                
+                <!-- Product Mapping -->
+                <prodinfo>
+                    <prodname>metR</prodname>
+                    <platform>web</platform>
+                    <component>migration</component>
+                    <component>metadata</component>
+                </prodinfo>
+                
+                <!-- DITA Metadata Framework for GEO & AI Discoverability -->
+                <othermeta name="intent" content="discover | evaluate | migrate | publish | enable-ai"/>
+                <othermeta name="content-type" content="product | solution | platform | resource"/>
+                <othermeta name="audience" content="enterprise | documentation-team | architect | product-leader"/>
+                <othermeta name="industry" content="medtech | bfsi | automotive | saas | manufacturing"/>
+                <othermeta name="ai-readiness" content="dita | semantic | ontology | knowledge-graph | rag"/>
+                <othermeta name="delivery-model" content="static | dynamic | headless | hybrid"/>
+                <othermeta name="geo-intent" content="global | europe | north-america | apac"/>
+                
+                <othermeta name="cost-positioning" content="low-tco | ccms-alternative | budget-optimized"/>
+                
+                
+                <!-- Descriptive Metadata -->
+                <othermeta name="title"
+                    content="From Unstructured Content to AI-Ready Knowledge"/>
+                <othermeta name="shortdesc"
+                    content="Convert unstructured documentation into governed, DITA-XML content and AI-ready knowledge graphs using the metR content transformation framework."/>
+                <othermeta name="language" content="en-GB"/>
+                <othermeta name="version" content="1.0.0"/>
+                <othermeta name="docStage" content="approved"/>
+                <othermeta name="access.role" content="public"/>
+                <othermeta name="data.classification" content="non-sensitive"/>
+                
+                <!-- Sitemap & Knowledge Graph Taxonomy -->
+                <othermeta name="taxonomy"
+                    content="content-type:solution;
+                    product:metR;
+                    capability:content-migration,dita-xml,metadata-enrichment,ai-enablement,knowledge-graphs;
+                    industry:enterprise-software"/>
+                
+                <othermeta name="entities"
+                    content="metR;unstructured-content;content-migration;dita-xml;ai-enablement;knowledge-graphs"/>
+                
+                <othermeta name="tags"
+                    content="unstructured-content,content-migration,dita-xml,ai-ready,knowledge-graphs,documentation-automation"/>
+                
+                <othermeta name="usecase"
+                    content="unstructured-to-ai-ready-content"/>
+                
+            </metadata>
+        </prolog>
+    
+    
+    <conbody>
+        <p><b>Migrate. Govern. Publish. Enable AI.</b></p>
+        <p><ph keyref="product_name"/> is a lightweight content transformation framework that
+            converts unstructured and semi‑structured content into clean, governed, DITA‑XML—ready
+            for multi‑channel publishing and AI consumption.</p>
+        <p><b>Built for teams that want speed, accuracy, and lower cost—without CCMS
+            lock‑in.</b></p>
+        <p>
+            <b><xref href="https://met-r.io/request-demo" format="html" scope="external">Book a
+                    demo</xref>
+            </b>|<b>
+                <xref href="https://met-r.io/contact" format="html" scope="external">Talk to an
+                    expert </xref></b></p>
+        <section id="section_ck1_hfv_c3c" outputclass="card">
+            <title><b>Why metR</b></title>
+            <ul id="ul_d5h_vfv_c3c">
+                <li><b>90%+ migration accuracy</b> from DOCX, PDF, FrameMaker, HTML,
+                    Markdown, XML</li>
+                <li><b>Git‑light governance</b> with visual diff, review, and
+                    approval</li>
+                <li><b>DITA‑OT publishing</b> to PDF &amp; HTML—brand accurate,
+                    repeatable</li>
+                <li><b>AI‑ready structure</b> for RAG, search, and knowledge graphs</li>
+                <li><b>Low‑TCO alternative</b> to heavy CCMS platforms</li>
+            </ul>
+            <p><xref href="https://met-r.io/contact" format="html" scope="external"
+                    ><?oxy_comment_start author="Admin" timestamp="20260129T124517+0530" comment="To be checked later"?>See
+                    How metR Works<?oxy_comment_end?></xref></p>
+        </section>
+        <section id="section_tqx_5gv_c3c">
+            <title>Whom is it for?</title>
+            <ul id="ul_ssn_ygv_c3c">
+                <li>Enterprises modernizing legacy documentation</li>
+                <li>Teams migrating from unstructured or proprietary formats</li>
+                <li>Organizations preparing content for AI search and chat</li>
+                <li>Budget‑conscious teams needing scalable DITA solutions</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>
