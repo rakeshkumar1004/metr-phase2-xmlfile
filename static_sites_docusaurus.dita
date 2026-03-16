@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="static_sites_docusaurus">
+    <title>Static Sites – Docusaurus</title>
+    <shortdesc>Publish fast, versioned, static documentation sites using Docusaurus powered by DITA-XML and CI/CD workflows.</shortdesc>
+    <prolog>
+        <author>Pallavi</author>
+        
+        <critdates>
+            <created date="2026-01-29+05:30"/>
+            <revised modified="2026-01-29"/>
+        </critdates>
+        
+        <metadata>
+            
+            <!-- Audience (DITA-native role taxonomy) -->
+            <audience
+                type="role"
+                otherprops="technical-writers,content-architects,documentation-managers,product-teams,engineering-teams,enterprise-leaders"/>
+            
+            <!--   + Index Terms -->
+            <keywords>
+                <!--   -->
+                <indexterm>Docusaurus documentation</indexterm>
+                <indexterm>static documentation sites</indexterm>
+                <indexterm>docs-as-code DITA</indexterm>
+                <indexterm>CI/CD documentation</indexterm>
+                
+                <!-- Controlled Index Terms -->
+                <indexterm>Docusaurus</indexterm>
+                <indexterm>static sites</indexterm>
+                <indexterm>docs-as-code</indexterm>
+                <indexterm>versioned documentation</indexterm>
+            </keywords>
+            
+            <!-- Product Mapping -->
+            <prodinfo>
+                <prodname>metR</prodname>
+                <platform>web</platform>
+                <component>publishing</component>
+                <component>delivery</component>
+            </prodinfo>
+            
+            <!-- DITA Metadata Framework for GEO & AI Discoverability -->
+            <othermeta name="intent" content="discover | evaluate | migrate | publish | enable-ai"/>
+            <othermeta name="content-type" content="product | solution | platform | resource"/>
+            <othermeta name="audience" content="enterprise | documentation-team | architect | product-leader"/>
+            <othermeta name="industry" content="medtech | bfsi | automotive | saas | manufacturing"/>
+            <othermeta name="ai-readiness" content="dita | semantic | ontology | knowledge-graph | rag"/>
+            <othermeta name="delivery-model" content="static | dynamic | headless | hybrid"/>
+            <othermeta name="geo-intent" content="global | europe | north-america | apac"/>
+            
+            <othermeta name="cost-positioning" content="low-tco | ccms-alternative | budget-optimized"/>
+            
+            <!-- Descriptive Metadata -->
+            <othermeta name="title"
+                content="Static Sites – Docusaurus"/>
+            <othermeta name="shortdesc"
+                content="Publish fast, versioned, static documentation sites using Docusaurus powered by DITA-XML and CI/CD workflows."/>
+            <othermeta name="language" content="en-GB"/>
+            <othermeta name="version" content="1.0.0"/>
+            <othermeta name="docStage" content="approved"/>
+            <othermeta name="access.role" content="public"/>
+            <othermeta name="data.classification" content="non-sensitive"/>
+            
+            <!-- Sitemap & Knowledge Graph Taxonomy -->
+            <othermeta name="taxonomy"
+                content="content-type:solution;
+                product:metR;
+                capability:pdf-html-publishing,headless-delivery;
+                industry:enterprise-software"/>
+            
+            <othermeta name="entities"
+                content="metR;docusaurus;static-sites;docs-as-code;dita-delivery"/>
+            
+            <othermeta name="tags"
+                content="docusaurus,static-sites,docs-as-code,ci-cd,dita-delivery"/>
+            
+            <othermeta name="usecase"
+                content="static-documentation-sites-docusaurus"/>
+            
+        </metadata>
+    </prolog>
+    
+    <conbody>
+        <p><b>Fast, Versioned, Release‑Aligned Docs</b></p>
+        <ul id="ul_dwz_hsv_c3c">
+            <li>Static HTML delivery</li>
+            <li>CI/CD‑friendly</li>
+            <li>Versioned documentation</li>
+            <li>Minimal infrastructure cost</li>
+        </ul>
+        <p><b>Best For:</b> Developer docs, product manuals, low‑overhead teams.</p>
+        <p><xref href="https://met-r.io/contact" format="html" scope="external">View Static Delivery
+                Model</xref></p>
+    </conbody>
+</concept>
