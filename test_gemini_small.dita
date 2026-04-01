@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="test_gemini_classification" xml:lang="en-US">
   <title>Gemini Classification Test</title>
-  <shortdesc>Testing 3 custom elements that will trigger Gemini API.</shortdesc>
+  <shortdesc>Testing 3 custom elements that will triggerss Gemini API.</shortdesc>
   
   <conbody>
     <section>
